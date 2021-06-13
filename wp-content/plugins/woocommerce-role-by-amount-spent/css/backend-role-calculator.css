@@ -1,0 +1,31 @@
+#progress-bar-container
+{
+	display:none;
+	height:20px;
+	width:100%;
+	margin: 0 20px 0 0;
+}
+#progress-bar-background
+{
+	display:block;
+	height:20px;
+	margin-right:10px;
+	background-color:#f7f7f7;
+}
+#progress-bar
+{
+	display:block;
+	height:20px;
+	background-color:#a46497;
+	width:0%;
+}
+#notice-box
+{
+	font-weight:bold;
+	display:block;
+	height:30px;
+}
+#recompute_button
+{
+	margin-top:10px;
+}

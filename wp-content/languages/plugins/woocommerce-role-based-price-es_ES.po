@@ -1,0 +1,378 @@
+# Translation of Plugins - Role Based Price For WooCommerce - Stable (latest release) in Spanish (Spain)
+# This file is distributed under the same license as the Plugins - Role Based Price For WooCommerce - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2020-05-01 05:12:04+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: es\n"
+"Project-Id-Version: Plugins - Role Based Price For WooCommerce - Stable (latest release)\n"
+
+#: includes/admin/class-metabox.php:10
+msgid "Role Based Price For WooCommerce Editor"
+msgstr "Editor de precio en base al perfil para WooCommerce"
+
+#. Plugin Name of the plugin
+#: includes/admin/views/plugin-welcome-page.php:3
+#: plugins/wc-product-importer/wc-product-importer.php:81
+msgid "Role Based Price For WooCommerce"
+msgstr "Role Based Price For WooCommerce"
+
+#: includes/admin/class-metabox.php:205
+msgid "Clear Cache"
+msgstr "Vaciar caché"
+
+#: includes/admin/class-ajax-handler.php:41
+msgid "Success"
+msgstr "Correcto"
+
+#: includes/admin/views/plugin-welcome-page.php:6
+msgid " now with improved speed and stability"
+msgstr "ahora más rápido y estable "
+
+#: includes/admin/views/plugin-welcome-page.php:2
+msgid "Welcome To"
+msgstr "Bienvenido a "
+
+#: includes/admin/views/addons-single.php:74
+msgid "Screenshots"
+msgstr "Capturas de pantalla"
+
+#: plugins/wc-product-importer/wc-product-importer.php:64
+#: plugins/wc-product-importer/wc-product-importer.php:65
+msgid "Price Status"
+msgstr "Estado de precio"
+
+#: plugins/wc-product-exporter/wc-product-exporter.php:129
+msgid " Price "
+msgstr "Precio "
+
+#: plugins/wc-product-exporter/wc-product-exporter.php:129
+msgid "WC Role Based "
+msgstr "WC Role Based "
+
+#: plugins/wc-product-exporter/wc-product-exporter.php:125
+msgid "WC RBP Status"
+msgstr "Estado de WC RBP"
+
+#: includes/admin/class-metabox.php:126
+msgid "Variations"
+msgstr "Variaciones"
+
+#: plugins/price-add-to-cart-visibility/price-add-to-cart-visibility.php:126
+msgid "Hide Product Price & Add To Cart button based on users role and set custom messsage to show if price is hidden"
+msgstr "Ocultar el Precio del Producto y el botón Añadir a la Cesta en función del rol del usuarios y configurar mensajes personalizados para mostrar si el precio está oculto."
+
+#: plugins/price-add-to-cart-visibility/price-add-to-cart-visibility.php:125
+msgid "Price & AddToCart Visibility"
+msgstr "Visibilidad del precio y de botón Añadir al carrito"
+
+#: plugins/price-add-to-cart-visibility/price-add-to-cart-visibility.php:115
+msgid "Used when product price is hidden.. use <code>[currency]</code> to get current store currency"
+msgstr "Utilizado cuando el precio del producto está oculto. Usa <code>[currency]</code> para obtener la moneda actual de la tienda."
+
+#: plugins/price-add-to-cart-visibility/price-add-to-cart-visibility.php:114
+msgid "Custom Message"
+msgstr "Mensaje personalizado"
+
+#: plugins/price-add-to-cart-visibility/price-add-to-cart-visibility.php:104
+msgid "if checked Variable product variation will be hidden from product page "
+msgstr "si está marcado, la variación del producto variable estará oculta en la página de producto. "
+
+#: plugins/price-add-to-cart-visibility/price-add-to-cart-visibility.php:103
+msgid "Hide Product Variations"
+msgstr "Ocultar variaciones de producto"
+
+#: plugins/price-add-to-cart-visibility/price-add-to-cart-visibility.php:92
+msgid "Product Add To Cart Button will be hidden for the selected user roles"
+msgstr "El botón Añadir al carrito estará oculto para los perfiles de usuario seleccionados"
+
+#: plugins/price-add-to-cart-visibility/price-add-to-cart-visibility.php:79
+msgid "Product Price will be hidden for the selected user roles"
+msgstr "El precio del producto estará oculto para los perfiles de usuario seleccionados"
+
+#: plugins/aelia-currencyswitcher-integration/wc_rbp_fields.php:23
+msgid "Enter Product's %s For %s Currency"
+msgstr "Introduce el %s del producto para la moneda %s"
+
+#: includes/helpers/class-activator.php:39
+msgid "Click Here to update the settings"
+msgstr "Haz clic aquí para actualizar los ajustes"
+
+#: includes/helpers/class-activator.php:36
+msgid "If you have installed <strong>WPRB</strong> for the 1st time or upgrading from <strong> Version 2.8.7</strong> then you will need to update its' settings once again or this plugin will not function properly. "
+msgstr "Si has instalado <strong>WPRB</strong> por primera vez o estás actualizando desde la <strong>Versión 2.8.7</strong> tendrás que actualizar sus ajustes una vez más o este plugin no funcionará correctamente. "
+
+#: includes/helpers/class-activator.php:33
+msgid "We have worked entire 1 year to improve our plugin to best of our ability and we hope you will enjoy working with it. We are always open for your sugestions and feature requests"
+msgstr "Hemos trabajado todo un año para a tope mejorar nuestro plugin, esperamos que disfrutes trabajando con él. Siempre estamos abiertos a sugerencias y solicitudes."
+
+#: includes/functions.php:132
+msgid "Visitor / LogedOut User"
+msgstr "Visitante / Usuario no conectado"
+
+#: includes/class-extensions.php:330
+msgid "Deactivate"
+msgstr "Desactivar"
+
+#: includes/class-extensions.php:329
+msgid "Activate"
+msgstr "Activar"
+
+#: includes/class-extensions.php:228
+msgid "Search Addons"
+msgstr "Buscar extensiones"
+
+#: includes/class-extensions.php:212
+msgid "All"
+msgstr "Todo"
+
+#: includes/class-extensions.php:318
+msgid "Addon Already Activated"
+msgstr "Extensión ya activada"
+
+#: includes/class-extensions.php:316
+msgid "Addon Activated"
+msgstr "Extensión activada"
+
+#: includes/class-extensions.php:314 includes/class-extensions.php:320
+msgid "Unable To Activate Addon. Please Try Again Later"
+msgstr "No se ha podido activar la extensión. Por favor, inténtalo de nuevo más tarde"
+
+#: includes/class-extensions.php:283
+msgid "Addon Already De-Activated"
+msgstr "Extensión ya desactivada"
+
+#: includes/class-extensions.php:281
+msgid "Addon De-Activated"
+msgstr "Extensión desactivada"
+
+#: includes/class-extensions.php:279 includes/class-extensions.php:285
+msgid "Unable To De-Activate Addon. Please Try Again Later"
+msgstr "No se ha podido desactivar la extensión. Por favor, inténtalo de nuevo más tarde"
+
+#: includes/class-extensions.php:277 includes/class-extensions.php:312
+msgid "Unable to process you request. please try again later"
+msgstr "No se ha podido procesar la solicitud. Por favor, inténtalo de nuevo más tarde"
+
+#: includes/admin/views/ajax-modal-header.php:3
+msgid "Role Based Price Editor"
+msgstr "Role Based Price Editor"
+
+#: includes/admin/views/ajax-modal-footer.php:6
+msgid "Update Price"
+msgstr "Actualizar precio"
+
+#: includes/admin/views/ajax-modal-footer.php:4
+msgid "Close"
+msgstr "Cerrar"
+
+#: includes/admin/views/addons-single.php:95
+msgid "Last Updated:"
+msgstr "Última actualización:"
+
+#: includes/admin/views/addons-single.php:89
+msgid "Addon Slug : "
+msgstr "Slug de la extensión: "
+
+#: includes/class-extensions.php:213 includes/admin/views/addons-single.php:52
+msgid "Active"
+msgstr "Activo"
+
+#: includes/admin/views/addons-single.php:49
+msgid "Plugin Does Not Exist"
+msgstr "El plugin no existe"
+
+#: includes/class-extensions.php:214 includes/admin/views/addons-single.php:46
+msgid "InActive"
+msgstr "Inactivo"
+
+#: includes/admin/views/addons-single.php:40
+msgid "Required Plugins :"
+msgstr "Plugins necesarios:"
+
+#: includes/admin/views/addons-single.php:31
+msgid "By"
+msgstr "Por"
+
+#: includes/admin/views/addons-single.php:21
+msgid "V"
+msgstr "V"
+
+#: includes/admin/settings_framework/class-wp-settings-framework.php:78
+msgid "Role Based Price Settings"
+msgstr "Ajuste de precios basados en perfil"
+
+#: includes/admin/settings_framework/class-wp-plugin-options.php:98
+msgid "check if you have installed wpml and the price are showing wrong. "
+msgstr "márcalo si has instalado WPML y se muestra un precio incorrecto. "
+
+#: includes/admin/settings_framework/class-wp-plugin-options.php:97
+msgid "WPML Integration"
+msgstr "Integración con WPML"
+
+#: includes/admin/settings_framework/class-wp-plugin-options.php:85
+msgid " Label "
+msgstr "Etiqueta"
+
+#: includes/admin/settings_framework/class-wp-plugin-options.php:39
+msgid "No Addons Activated / Installed."
+msgstr "Ninguna extensión activada / instalada."
+
+#: includes/admin/settings_framework/class-wp-plugin-options.php:29
+msgid "Extensions"
+msgstr "Extensiones"
+
+#: includes/admin/settings_framework/class-wp-plugin-options.php:27
+msgid "Extensions Options"
+msgstr "Opciones de las extensiones"
+
+#: includes/admin/class-product-functions.php:31
+msgid "Price Not Defined. Please Try Again"
+msgstr "Precio no definido. Por favor, vuelve a intentarlo"
+
+#: includes/admin/class-product-functions.php:29
+msgid "Product Price Updated."
+msgstr "Precio de producto actualizado."
+
+#: includes/admin/class-price-editor-fields.php:63
+msgid "Enter Product's "
+msgstr "Introduce el "
+
+#: includes/admin/class-metabox.php:154
+msgid "Select A Variation : "
+msgstr "Selecciona una variación: "
+
+#: includes/admin/class-metabox.php:228
+msgid "WC Product Price : "
+msgstr "Precio de producto de WC: "
+
+#: includes/admin/class-ajax-handler.php:87
+msgid "Unable To Process Your Request Please Try Again later"
+msgstr "Ha sido imposible procesar tu solicitud. Inténtalo más tarde"
+
+#: includes/admin/class-ajax-handler.php:29
+#: includes/admin/class-ajax-handler.php:46
+#: includes/admin/class-ajax-handler.php:50
+msgid "Invalid Product ID"
+msgstr "ID de producto no válido"
+
+#: includes/admin/class-admin-init.php:195
+msgid "View On Github"
+msgstr "Ver en Github"
+
+#: includes/admin/class-admin-init.php:194
+msgid "Docs"
+msgstr "Documentación"
+
+#: includes/admin/class-admin-init.php:177
+msgid "Add-ons"
+msgstr "Extensiones"
+
+#: bootstrap.php:171
+msgid "Unserializing instances of the class is forbidden."
+msgstr "Está prohibida la desserialización de las instancias de la clase."
+
+#: bootstrap.php:157
+msgid "Cloning instances of the class is forbidden."
+msgstr "Clonar instancias de la clase está prohibido."
+
+#: plugins/aelia-currencyswitcher-integration/aelia-currencyswitcher-integration.php:96
+msgid "Allowed Currency To Show In Role Based Price Listing"
+msgstr "Moneda permitida para mostrar en el listado de precios basados en perfil"
+
+#: plugins/aelia-currencyswitcher-integration/aelia-currencyswitcher-integration.php:95
+msgid "Allowed Currency"
+msgstr "Moneda permitida"
+
+#: plugins/aelia-currencyswitcher-integration/aelia-currencyswitcher-integration.php:84
+#: plugins/aelia-currencyswitcher-integration/wc_rbp_fields.php:3
+msgid "Aelia Currency Switcher"
+msgstr "Aelia Currency Switcher"
+
+#: includes/class-product-pricing.php:498
+msgid "Free! "
+msgstr "Gratis"
+
+#: includes/class-product-pricing.php:484
+#: includes/class-product-pricing.php:494
+msgctxt "Price range: from - to"
+msgid " % 1$s & ndash;%2$s"
+msgstr " %1$s & ndash;%2$s"
+
+#: includes/class-shortcode-handler.php:61
+msgid "Invalid Price Type Given"
+msgstr "Tipo de precio no válido"
+
+#: includes/class-shortcode-handler.php:53
+msgid "Invalid User Role Given"
+msgstr "Perfil de usuario no válido"
+
+#: includes/class-shortcode-handler.php:47
+msgid "Invalid Product ID Given"
+msgstr "ID de producto no válido"
+
+#: includes/admin/class-price-editor-fields.php:36
+msgid "Enable Role Based Pricing"
+msgstr "Activar precios basados en perfil "
+
+#: includes/admin/class-metabox.php:211
+msgid "Save Price"
+msgstr "Guardar precio"
+
+#: includes/functions.php:231
+msgid "Selling Price"
+msgstr "Precio de venta"
+
+#: plugins/price-add-to-cart-visibility/price-add-to-cart-visibility.php:91
+msgid "Hide Add To Cart Button"
+msgstr "Ocultar el botón de añadir al carrito para"
+
+#: plugins/price-add-to-cart-visibility/price-add-to-cart-visibility.php:78
+msgid "Hide Price For"
+msgstr "Ocultar precio para"
+
+#: includes/functions.php:230
+msgid "Regular Price"
+msgstr "Precio habitual"
+
+#: includes/admin/settings_framework/class-wp-plugin-options.php:70
+msgid "Price Fields To List In Product Edit Page"
+msgstr "Campos de precio que mostrar en la página de edición de producto"
+
+#: includes/admin/settings_framework/class-wp-plugin-options.php:69
+msgid "Allowed Product Pricing"
+msgstr "Precio de producto permitido"
+
+#: includes/admin/settings_framework/class-wp-plugin-options.php:56
+msgid "User Roles To List In Product Edit Page"
+msgstr "Perfiles de usuario que mostrar en la página de edición de producto"
+
+#: includes/admin/settings_framework/class-wp-plugin-options.php:55
+msgid "Allowed User Roles"
+msgstr "Perfiles de usuario permitidos"
+
+#: includes/admin/class-price-editor-fields.php:24
+#: includes/admin/settings_framework/class-wp-plugin-options.php:23
+#: includes/admin/settings_framework/class-wp-plugin-options.php:34
+msgid "General"
+msgstr "General"
+
+#: includes/admin/class-admin-init.php:198
+msgid "Contact Author"
+msgstr "Contactar con el autor"
+
+#: includes/admin/class-admin-init.php:197
+msgid "Donate"
+msgstr "Donar"
+
+#: includes/admin/class-admin-init.php:196
+msgid "Report Issue"
+msgstr "Informar de un problema"
+
+#: includes/admin/class-admin-init.php:176
+msgid "Settings"
+msgstr "Configurar"

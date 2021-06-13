@@ -1,0 +1,11 @@
+# Q: How to get the JSON content?
+
+# A: Query the following APIs.
+
+----------------------------------------------------------------------
+
+google-webfonts-alphabet.json:
+https://www.googleapis.com/webfonts/v1/webfonts?key=APIKEYHEREAPIKEYHEREAPIKEYHEREAPIKEYHERE&sort=alpha
+
+google-webfonts-popularity.json:
+https://www.googleapis.com/webfonts/v1/webfonts?key=APIKEYHEREAPIKEYHEREAPIKEYHEREAPIKEYHERE&sort=popularity

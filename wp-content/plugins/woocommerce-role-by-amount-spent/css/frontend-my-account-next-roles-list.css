@@ -1,0 +1,47 @@
+.wcra_next_role_container
+{
+	width: 350px;
+	/* height: 150px;  */
+	display: inline-block;
+	margin-right: 20px;
+	margin-bottom: 20px;
+	border: 1px #e3e3e3 dashed;
+	padding: 20px;
+}	
+.wcra_next_role_total_spent, .wcra_next_role_amount_to_achieve, .wcra_next_role_end_date, .wcra_next_role_start_date, .wcra_next_role_names_container, .wcra_progress_bar
+{
+	display: block;
+	clear: right;
+}
+.wcra_next_role_single_name
+{
+	text-transform: uppercase;
+	font-weight: bold;
+}
+.wcra_next_role_total_spent_label, .wcra_next_role_amount_spent_label, .wcra_next_role_end_date_label, .wcra_next_role_start_date_label
+{
+	font-weight: bold;
+}
+.wcra_next_role_names_container
+{
+	margin-bottom: 2px;
+}
+.wcra_progress_bar_background,.wcra_progress_bar_progress
+{
+	height:10px;
+}
+.wcra_progress_bar
+{
+	position:relative;
+	margin-top: 5px;
+}
+.wcra_progress_bar_background {
+  background: #e3e3e3;
+  width: 100%;
+  position: absolute;
+}
+.wcra_progress_bar_progress
+{
+	 background: black;
+	 position: absolute;
+}

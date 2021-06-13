@@ -1,0 +1,25 @@
+.ark-support-box 	{
+	background-color: #32d316;
+	color: #ffffff;
+	padding: 20px 40px 30px 50px;
+	font-size: 18px;
+	margin: -20px -39px 0 19px;
+}
+
+.ark-support-box a 	{
+	color: #ffffff;
+	text-decoration: none;
+	margin: 0 0 10px 0;
+	display: inline-block;
+	opacity: 0.85;
+}
+
+.ark-support-box a:hover 	{
+	text-decoration: underline;
+	opacity: 1;
+}
+
+.ark-support-box-title 	{
+	color: #ffffff;
+	font-size: 26px;
+}

@@ -1,0 +1,186 @@
+/*!
+ * Font Awesome Free 5.11.2 by @fontawesome - https://fontawesome.com
+ * License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License)
+ */
+/* FONT PATH
+ * -------------------------- */
+/* FONT PATH
+ * -------------------------- */
+@font-face {
+  font-family: 'ff-font-awesome5-regular';
+  font-style: normal;
+  font-weight: 400;
+  font-display: auto;
+  src: url("ff-font-awesome5-regular.eot");
+  src: url("ff-font-awesome5-regular.eot?#iefix") format("embedded-opentype"), url("ff-font-awesome5-regular.woff2") format("woff2"), url("ff-font-awesome5-regular.woff") format("woff"), url("ff-font-awesome5-regular.ttf") format("truetype"), url("ff-font-awesome5-regular.svg#fontawesome") format("svg"); }
+
+.ff-font-awesome5-regular {
+  font-family: 'ff-font-awesome5-regular';
+  font-weight: 400; 
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-font-smoothing: antialiased;
+  display: inline-block;
+  font-style: normal;
+  font-variant: normal;
+  text-rendering: auto;
+  line-height: 1; }
+
+.ff-font-awesome5-regular[class*=icon]:before {
+  font-family: 'ff-font-awesome5-regular' !important;
+}
+
+/* Font Awesome uses the Unicode Private Use Area (PUA) to ensure screen
+readers do not read off random characters that represent icons */
+
+.ff-font-awesome5-regular.icon-address-book:before { content: "\f2b9"; } /* address-book */
+.ff-font-awesome5-regular.icon-address-card:before { content: "\f2bb"; } /* address-card */
+.ff-font-awesome5-regular.icon-angry:before { content: "\f556"; } /* angry */
+.ff-font-awesome5-regular.icon-arrow-alt-circle-down:before { content: "\f358"; } /* arrow-alt-circle-down */
+.ff-font-awesome5-regular.icon-arrow-alt-circle-left:before { content: "\f359"; } /* arrow-alt-circle-left */
+.ff-font-awesome5-regular.icon-arrow-alt-circle-right:before { content: "\f35a"; } /* arrow-alt-circle-right */
+.ff-font-awesome5-regular.icon-arrow-alt-circle-up:before { content: "\f35b"; } /* arrow-alt-circle-up */
+.ff-font-awesome5-regular.icon-bell:before { content: "\f0f3"; } /* bell */
+.ff-font-awesome5-regular.icon-bell-slash:before { content: "\f1f6"; } /* bell-slash */
+.ff-font-awesome5-regular.icon-bookmark:before { content: "\f02e"; } /* bookmark */
+.ff-font-awesome5-regular.icon-building:before { content: "\f1ad"; } /* building */
+.ff-font-awesome5-regular.icon-calendar:before { content: "\f133"; } /* calendar */
+.ff-font-awesome5-regular.icon-calendar-alt:before { content: "\f073"; } /* calendar-alt */
+.ff-font-awesome5-regular.icon-calendar-check:before { content: "\f274"; } /* calendar-check */
+.ff-font-awesome5-regular.icon-calendar-minus:before { content: "\f272"; } /* calendar-minus */
+.ff-font-awesome5-regular.icon-calendar-plus:before { content: "\f271"; } /* calendar-plus */
+.ff-font-awesome5-regular.icon-calendar-times:before { content: "\f273"; } /* calendar-times */
+.ff-font-awesome5-regular.icon-caret-square-down:before { content: "\f150"; } /* caret-square-down */
+.ff-font-awesome5-regular.icon-caret-square-left:before { content: "\f191"; } /* caret-square-left */
+.ff-font-awesome5-regular.icon-caret-square-right:before { content: "\f152"; } /* caret-square-right */
+.ff-font-awesome5-regular.icon-caret-square-up:before { content: "\f151"; } /* caret-square-up */
+.ff-font-awesome5-regular.icon-chart-bar:before { content: "\f080"; } /* chart-bar */
+.ff-font-awesome5-regular.icon-check-circle:before { content: "\f058"; } /* check-circle */
+.ff-font-awesome5-regular.icon-check-square:before { content: "\f14a"; } /* check-square */
+.ff-font-awesome5-regular.icon-circle:before { content: "\f111"; } /* circle */
+.ff-font-awesome5-regular.icon-clipboard:before { content: "\f328"; } /* clipboard */
+.ff-font-awesome5-regular.icon-clock:before { content: "\f017"; } /* clock */
+.ff-font-awesome5-regular.icon-clone:before { content: "\f24d"; } /* clone */
+.ff-font-awesome5-regular.icon-closed-captioning:before { content: "\f20a"; } /* closed-captioning */
+.ff-font-awesome5-regular.icon-comment:before { content: "\f075"; } /* comment */
+.ff-font-awesome5-regular.icon-comment-alt:before { content: "\f27a"; } /* comment-alt */
+.ff-font-awesome5-regular.icon-comment-dots:before { content: "\f4ad"; } /* comment-dots */
+.ff-font-awesome5-regular.icon-comments:before { content: "\f086"; } /* comments */
+.ff-font-awesome5-regular.icon-compass:before { content: "\f14e"; } /* compass */
+.ff-font-awesome5-regular.icon-copy:before { content: "\f0c5"; } /* copy */
+.ff-font-awesome5-regular.icon-copyright:before { content: "\f1f9"; } /* copyright */
+.ff-font-awesome5-regular.icon-credit-card:before { content: "\f09d"; } /* credit-card */
+.ff-font-awesome5-regular.icon-dizzy:before { content: "\f567"; } /* dizzy */
+.ff-font-awesome5-regular.icon-dot-circle:before { content: "\f192"; } /* dot-circle */
+.ff-font-awesome5-regular.icon-edit:before { content: "\f044"; } /* edit */
+.ff-font-awesome5-regular.icon-envelope:before { content: "\f0e0"; } /* envelope */
+.ff-font-awesome5-regular.icon-envelope-open:before { content: "\f2b6"; } /* envelope-open */
+.ff-font-awesome5-regular.icon-eye:before { content: "\f06e"; } /* eye */
+.ff-font-awesome5-regular.icon-eye-slash:before { content: "\f070"; } /* eye-slash */
+.ff-font-awesome5-regular.icon-file:before { content: "\f15b"; } /* file */
+.ff-font-awesome5-regular.icon-file-alt:before { content: "\f15c"; } /* file-alt */
+.ff-font-awesome5-regular.icon-file-archive:before { content: "\f1c6"; } /* file-archive */
+.ff-font-awesome5-regular.icon-file-audio:before { content: "\f1c7"; } /* file-audio */
+.ff-font-awesome5-regular.icon-file-code:before { content: "\f1c9"; } /* file-code */
+.ff-font-awesome5-regular.icon-file-excel:before { content: "\f1c3"; } /* file-excel */
+.ff-font-awesome5-regular.icon-file-image:before { content: "\f1c5"; } /* file-image */
+.ff-font-awesome5-regular.icon-file-pdf:before { content: "\f1c1"; } /* file-pdf */
+.ff-font-awesome5-regular.icon-file-powerpoint:before { content: "\f1c4"; } /* file-powerpoint */
+.ff-font-awesome5-regular.icon-file-video:before { content: "\f1c8"; } /* file-video */
+.ff-font-awesome5-regular.icon-file-word:before { content: "\f1c2"; } /* file-word */
+.ff-font-awesome5-regular.icon-flag:before { content: "\f024"; } /* flag */
+.ff-font-awesome5-regular.icon-flushed:before { content: "\f579"; } /* flushed */
+.ff-font-awesome5-regular.icon-folder:before { content: "\f07b"; } /* folder */
+.ff-font-awesome5-regular.icon-folder-open:before { content: "\f07c"; } /* folder-open */
+.ff-font-awesome5-regular.icon-font-awesome-logo-full:before { content: "\f4e6"; } /* font-awesome-logo-full */
+.ff-font-awesome5-regular.icon-frown:before { content: "\f119"; } /* frown */
+.ff-font-awesome5-regular.icon-frown-open:before { content: "\f57a"; } /* frown-open */
+.ff-font-awesome5-regular.icon-futbol:before { content: "\f1e3"; } /* futbol */
+.ff-font-awesome5-regular.icon-gem:before { content: "\f3a5"; } /* gem */
+.ff-font-awesome5-regular.icon-grimace:before { content: "\f57f"; } /* grimace */
+.ff-font-awesome5-regular.icon-grin:before { content: "\f580"; } /* grin */
+.ff-font-awesome5-regular.icon-grin-alt:before { content: "\f581"; } /* grin-alt */
+.ff-font-awesome5-regular.icon-grin-beam:before { content: "\f582"; } /* grin-beam */
+.ff-font-awesome5-regular.icon-grin-beam-sweat:before { content: "\f583"; } /* grin-beam-sweat */
+.ff-font-awesome5-regular.icon-grin-hearts:before { content: "\f584"; } /* grin-hearts */
+.ff-font-awesome5-regular.icon-grin-squint:before { content: "\f585"; } /* grin-squint */
+.ff-font-awesome5-regular.icon-grin-squint-tears:before { content: "\f586"; } /* grin-squint-tears */
+.ff-font-awesome5-regular.icon-grin-stars:before { content: "\f587"; } /* grin-stars */
+.ff-font-awesome5-regular.icon-grin-tears:before { content: "\f588"; } /* grin-tears */
+.ff-font-awesome5-regular.icon-grin-tongue:before { content: "\f589"; } /* grin-tongue */
+.ff-font-awesome5-regular.icon-grin-tongue-squint:before { content: "\f58a"; } /* grin-tongue-squint */
+.ff-font-awesome5-regular.icon-grin-tongue-wink:before { content: "\f58b"; } /* grin-tongue-wink */
+.ff-font-awesome5-regular.icon-grin-wink:before { content: "\f58c"; } /* grin-wink */
+.ff-font-awesome5-regular.icon-hand-lizard:before { content: "\f258"; } /* hand-lizard */
+.ff-font-awesome5-regular.icon-hand-paper:before { content: "\f256"; } /* hand-paper */
+.ff-font-awesome5-regular.icon-hand-peace:before { content: "\f25b"; } /* hand-peace */
+.ff-font-awesome5-regular.icon-hand-point-down:before { content: "\f0a7"; } /* hand-point-down */
+.ff-font-awesome5-regular.icon-hand-point-left:before { content: "\f0a5"; } /* hand-point-left */
+.ff-font-awesome5-regular.icon-hand-point-right:before { content: "\f0a4"; } /* hand-point-right */
+.ff-font-awesome5-regular.icon-hand-point-up:before { content: "\f0a6"; } /* hand-point-up */
+.ff-font-awesome5-regular.icon-hand-pointer:before { content: "\f25a"; } /* hand-pointer */
+.ff-font-awesome5-regular.icon-hand-rock:before { content: "\f255"; } /* hand-rock */
+.ff-font-awesome5-regular.icon-hand-scissors:before { content: "\f257"; } /* hand-scissors */
+.ff-font-awesome5-regular.icon-hand-spock:before { content: "\f259"; } /* hand-spock */
+.ff-font-awesome5-regular.icon-handshake:before { content: "\f2b5"; } /* handshake */
+.ff-font-awesome5-regular.icon-hdd:before { content: "\f0a0"; } /* hdd */
+.ff-font-awesome5-regular.icon-heart:before { content: "\f004"; } /* heart */
+.ff-font-awesome5-regular.icon-hospital:before { content: "\f0f8"; } /* hospital */
+.ff-font-awesome5-regular.icon-hourglass:before { content: "\f254"; } /* hourglass */
+.ff-font-awesome5-regular.icon-id-badge:before { content: "\f2c1"; } /* id-badge */
+.ff-font-awesome5-regular.icon-id-card:before { content: "\f2c2"; } /* id-card */
+.ff-font-awesome5-regular.icon-image:before { content: "\f03e"; } /* image */
+.ff-font-awesome5-regular.icon-images:before { content: "\f302"; } /* images */
+.ff-font-awesome5-regular.icon-keyboard:before { content: "\f11c"; } /* keyboard */
+.ff-font-awesome5-regular.icon-kiss:before { content: "\f596"; } /* kiss */
+.ff-font-awesome5-regular.icon-kiss-beam:before { content: "\f597"; } /* kiss-beam */
+.ff-font-awesome5-regular.icon-kiss-wink-heart:before { content: "\f598"; } /* kiss-wink-heart */
+.ff-font-awesome5-regular.icon-laugh:before { content: "\f599"; } /* laugh */
+.ff-font-awesome5-regular.icon-laugh-beam:before { content: "\f59a"; } /* laugh-beam */
+.ff-font-awesome5-regular.icon-laugh-squint:before { content: "\f59b"; } /* laugh-squint */
+.ff-font-awesome5-regular.icon-laugh-wink:before { content: "\f59c"; } /* laugh-wink */
+.ff-font-awesome5-regular.icon-lemon:before { content: "\f094"; } /* lemon */
+.ff-font-awesome5-regular.icon-life-ring:before { content: "\f1cd"; } /* life-ring */
+.ff-font-awesome5-regular.icon-lightbulb:before { content: "\f0eb"; } /* lightbulb */
+.ff-font-awesome5-regular.icon-list-alt:before { content: "\f022"; } /* list-alt */
+.ff-font-awesome5-regular.icon-map:before { content: "\f279"; } /* map */
+.ff-font-awesome5-regular.icon-meh:before { content: "\f11a"; } /* meh */
+.ff-font-awesome5-regular.icon-meh-blank:before { content: "\f5a4"; } /* meh-blank */
+.ff-font-awesome5-regular.icon-meh-rolling-eyes:before { content: "\f5a5"; } /* meh-rolling-eyes */
+.ff-font-awesome5-regular.icon-minus-square:before { content: "\f146"; } /* minus-square */
+.ff-font-awesome5-regular.icon-money-bill-alt:before { content: "\f3d1"; } /* money-bill-alt */
+.ff-font-awesome5-regular.icon-moon:before { content: "\f186"; } /* moon */
+.ff-font-awesome5-regular.icon-newspaper:before { content: "\f1ea"; } /* newspaper */
+.ff-font-awesome5-regular.icon-object-group:before { content: "\f247"; } /* object-group */
+.ff-font-awesome5-regular.icon-object-ungroup:before { content: "\f248"; } /* object-ungroup */
+.ff-font-awesome5-regular.icon-paper-plane:before { content: "\f1d8"; } /* paper-plane */
+.ff-font-awesome5-regular.icon-pause-circle:before { content: "\f28b"; } /* pause-circle */
+.ff-font-awesome5-regular.icon-play-circle:before { content: "\f144"; } /* play-circle */
+.ff-font-awesome5-regular.icon-plus-square:before { content: "\f0fe"; } /* plus-square */
+.ff-font-awesome5-regular.icon-question-circle:before { content: "\f059"; } /* question-circle */
+.ff-font-awesome5-regular.icon-registered:before { content: "\f25d"; } /* registered */
+.ff-font-awesome5-regular.icon-sad-cry:before { content: "\f5b3"; } /* sad-cry */
+.ff-font-awesome5-regular.icon-sad-tear:before { content: "\f5b4"; } /* sad-tear */
+.ff-font-awesome5-regular.icon-save:before { content: "\f0c7"; } /* save */
+.ff-font-awesome5-regular.icon-share-square:before { content: "\f14d"; } /* share-square */
+.ff-font-awesome5-regular.icon-smile:before { content: "\f118"; } /* smile */
+.ff-font-awesome5-regular.icon-smile-beam:before { content: "\f5b8"; } /* smile-beam */
+.ff-font-awesome5-regular.icon-smile-wink:before { content: "\f4da"; } /* smile-wink */
+.ff-font-awesome5-regular.icon-snowflake:before { content: "\f2dc"; } /* snowflake */
+.ff-font-awesome5-regular.icon-square:before { content: "\f0c8"; } /* square */
+.ff-font-awesome5-regular.icon-star:before { content: "\f005"; } /* star */
+.ff-font-awesome5-regular.icon-star-half:before { content: "\f089"; } /* star-half */
+.ff-font-awesome5-regular.icon-sticky-note:before { content: "\f249"; } /* sticky-note */
+.ff-font-awesome5-regular.icon-stop-circle:before { content: "\f28d"; } /* stop-circle */
+.ff-font-awesome5-regular.icon-sun:before { content: "\f185"; } /* sun */
+.ff-font-awesome5-regular.icon-surprise:before { content: "\f5c2"; } /* surprise */
+.ff-font-awesome5-regular.icon-thumbs-down:before { content: "\f165"; } /* thumbs-down */
+.ff-font-awesome5-regular.icon-thumbs-up:before { content: "\f164"; } /* thumbs-up */
+.ff-font-awesome5-regular.icon-times-circle:before { content: "\f057"; } /* times-circle */
+.ff-font-awesome5-regular.icon-tired:before { content: "\f5c8"; } /* tired */
+.ff-font-awesome5-regular.icon-trash-alt:before { content: "\f2ed"; } /* trash-alt */
+.ff-font-awesome5-regular.icon-user:before { content: "\f007"; } /* user */
+.ff-font-awesome5-regular.icon-user-circle:before { content: "\f2bd"; } /* user-circle */
+.ff-font-awesome5-regular.icon-window-close:before { content: "\f410"; } /* window-close */
+.ff-font-awesome5-regular.icon-window-maximize:before { content: "\f2d0"; } /* window-maximize */
+.ff-font-awesome5-regular.icon-window-minimize:before { content: "\f2d1"; } /* window-minimize */
+.ff-font-awesome5-regular.icon-window-restore:before { content: "\f2d2"; } /* window-restore */
